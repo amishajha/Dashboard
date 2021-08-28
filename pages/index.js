@@ -398,7 +398,7 @@ Monday 10december 2020
   fontSize="sm"
   color="#9C536B"
   fontWeight="light"
-  mt="58px"
+  mt="51px"
   ml="6px"
   fontFamily="cursive"
 >
@@ -632,6 +632,23 @@ Monday 10december 2020
 
       </Box>
     </Box>
+
+
+  <Text
+  bgGradient="linear(to-l, #7928CA,#FF0080)"
+  bgClip="text"
+  fontSize="xs"
+  ml="20px"
+  mt="27px"
+  color="#9C536B"
+  
+  fontWeight="extrabold"
+  fontFamily="cursive"
+>
+
+Tuesday 11december 2020
+</Text>
+
     <Box maxW="sm" borderWidth="1px" borderRadius="12px" overflow="hidden" height="130px" bg="#e6bbad" mt="10px"ml="20px" width= "240px"
 >
        
